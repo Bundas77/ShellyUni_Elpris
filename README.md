@@ -41,6 +41,8 @@ Coinfig:
     // "Settings" -> "Led indicator color mode" have to be set to "switch"  
 -   colors: ["0,100,0", "50,100,0", "100,50,0", "100,0,0"], //Colors used for shelly plus plug s led
 
+Wishlist:
+Want to ad temperature variable. // always on when outside temperature <x°C with ds18b20
+Retur temp <=x°C 
 
-Want to ad temperature variable. // always on when <x°C
 
