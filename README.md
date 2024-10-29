@@ -42,7 +42,7 @@ Coinfig:
 -   colors: ["0,100,0", "50,100,0", "100,50,0", "100,0,0"], //Colors used for shelly plus plug s led
 
 Wishlist:
-1: Want to ad temperature variable. // always on when outside temperature <x°C with ds18b20
-Retur temp <=x°C 
-2: Always on when solar power produces >xW
+-   Want to ad temperature variable. // always on when outside temperature <x°C with ds18b20
+-   Retur temp <=x°C 
+-   Always on when solar power produces >xW
 
